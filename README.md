@@ -1,6 +1,6 @@
-# L2 ROLLATHON - Integrating UNS “Login With Unstoppable”
+### L2 ROLLATHON - Integrating UNS “Login With Unstoppable”
 
-## The Challenge Description: Integrate the “Login with Unstoppable” feature as a login option on your Dapp OR submit a PR to merge this feature as a login option on an existing DeFi/NFT dapp.
+### The Challenge Description: Integrate the “Login with Unstoppable” feature as a login option on your Dapp OR submit a PR to merge this feature as a login option on an existing DeFi/NFT dapp.
 
 <!-- [HERE](https://gitcoin.co/issue/transak/transak-sdk/11/100028820) -->
 
