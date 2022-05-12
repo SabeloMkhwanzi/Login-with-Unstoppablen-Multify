@@ -15,7 +15,7 @@
 - Building a platform that helps users to remain on one platform that providers all the tools needed by Investors, Cryptocurrency holders, traders etc.
 - This project provided a simple way to track, analyse and visualize all data assets, track transactions, swap crypto assets and buy cryto.
 
-## Tools
+### Tools
 
 - Building Framework: [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - Frontend: [Chakra-ui](https://chakra-ui.com/) - Create accessible React apps with speed
@@ -26,7 +26,7 @@
 - Wallet connection: [Wagmi](https://wagmi-xyz.vercel.app/) - is a React Hooks library for Ethereum, built on ethers.js.
 <!-- * Hosting platform: [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js. -->
 
-## Project Feature
+### Project Feature
 
 - Overview Dashboard
 - Pools
@@ -52,7 +52,7 @@
 
 #### Running the app
 
-## Getting Started
+### Getting Started
 
 First, clone the repo with the following git command:
 
@@ -94,4 +94,4 @@ yarn dev
 
 Happy Hacking!😊
 
-# Login-with-Unstoppablen-Multify
+## Login-with-Unstoppablen-Multify
