@@ -34,6 +34,7 @@
 - Transaction History
 - DEX Swap
 - Buy Cryptocurrency
+- Login with Unstoppable
 
 ##### 1. Home Page
 
