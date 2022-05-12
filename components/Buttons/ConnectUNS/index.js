@@ -3,8 +3,8 @@ import React, { useEffect, useState } from "react";
 import { Avatar, Button } from "@chakra-ui/react";
 
 const uauth = new UAuth({
-  clientID: "8a299016-e842-44c1-a3aa-053bc414b253",
-  redirectUri: "http://localhost:3000/callback",
+  clientID: "1458e201-d57a-4b62-856e-a134be2cf02e",
+  redirectUri: "https://login-with-unstoppablen-multify.vercel.app/callback",
 });
 
 function ConnectUNS() {
