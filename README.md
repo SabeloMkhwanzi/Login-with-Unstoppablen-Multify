@@ -22,7 +22,7 @@
 - Backend: [Covalent Api](https://www.covalenthq.com/) - Covalent provides a unified API bringing visibility to billions of blockchain data points.
 - Dex Interface: [Uniswap Labs Widgets](https://docs.uniswap.org/sdk/widgets/swap-widget) - Getting Started with the Swap Uniswap Widget.
 - HTTPS and WebSocket Provider: [Infura](https://docs.infura.io/infura/networks/ethereum) - guide on how to use the most versatile blockchain developer platform.
-- Wallet connection: [Unstoppable Domains] (https://docs.unstoppabledomains.com/login-with-unstoppable/) - Unstoppable Domains are NFTs, and they are decentralized. What sets an Unstoppable Domains NFT apart from traditional domain names (like .com) is that NFT domains are stored by their owners in their wallets like cryptocurrency, and no third party can change or remove them. This makes them, in a word, unstoppable.
+- Wallet connection: [Unstoppable Domains](https://docs.unstoppabledomains.com/login-with-unstoppable/) - Unstoppable Domains are NFTs, and they are decentralized. What sets an Unstoppable Domains NFT apart from traditional domain names (like .com) is that NFT domains are stored by their owners in their wallets like cryptocurrency, and no third party can change or remove them. This makes them, in a word, unstoppable.
 - Wallet connection: [Wagmi](https://wagmi-xyz.vercel.app/) - is a React Hooks library for Ethereum, built on ethers.js.
 <!-- * Hosting platform: [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js. -->
 
