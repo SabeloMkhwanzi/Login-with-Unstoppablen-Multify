@@ -4,7 +4,7 @@
 
 <!-- [HERE](https://gitcoin.co/issue/transak/transak-sdk/11/100028820) -->
 
-## MULITFY - Web3 DEFI Tool
+### MULITFY - Web3 DEFI Tool
 
 ### Project Description
 
@@ -92,7 +92,5 @@ yarn dev
 ```
 
 Happy Hacking!😊
-
-# Multify
 
 # Login-with-Unstoppablen-Multify
