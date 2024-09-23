@@ -36,20 +36,6 @@
 - Buy Cryptocurrency
 - Login with Unstoppable
 
-##### 1. Home Page
-
-![HomePage](https://github.com/SabeloMkhwanzi/Login-with-Unstoppablen-Multify/blob/main/public/loging-uns.jpg)
-
-#### Live website: [Multify](https://login-with-unstoppablen-multify.vercel.app/)
-
-#### GitHub Repository: [github.com/SabeloMkhwanazi](https://github.com/SabeloMkhwanzi/Login-with-Unstoppablen-Multify)
-
-#### Demo video: [video](https://youtu.be/INtzU-xf-mk)
-
-#### Project Start: Date: 12 May, 2022
-
-#### Wallet Address : 0xF975206a46b4eD9f5F008AF9813B19bf083d94eE
-
 #### Running the app
 
 ### Getting Started
